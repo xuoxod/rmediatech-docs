@@ -1,0 +1,13 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Temporary & Local
+*.log
+.env
+.env.*
+node_modules/
+dist/
+build/
