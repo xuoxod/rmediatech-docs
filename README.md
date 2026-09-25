@@ -76,6 +76,12 @@ flowchart LR
 3. **Cryptographic Assurance**: All mission-critical state transitions and audit trails are permanently anchored to a rolling SHA-256 Merkle blockchain (`sovereign-ledger`), eliminating opaque third-party logging bills.
 4. **Absolute Architectural Ownership**: 100% pure static Musl binaries, zero dynamic glibc dependencies, zero vendor telemetry, zero lock-in.
 
+### 🧬 Methodology: Autonomous Human-AI Systems Engineering
+
+The RMediaTech platform is built upon a transparent, proud engineering foundation: **sovereign human-AI pair programming**. 
+
+Rather than hiding behind opaque claims or generating fragile automated boilerplate, the platform is architected through intense, hands-on collaboration between a human systems lead and an agentic cognitive partner. Human vision enforces the non-negotiables—zero-telemetry, strict Content Security Policies, memory safety, and cryptographic provenance—while collaborative intelligence accelerates verification, edge-case hardening, and low-level algorithmic optimization. This represents the frontier of modern development: human architectural sovereignty magnified by artificial intelligence.
+
 ---
 
 ## 📚 Namespaced Documentation Index
