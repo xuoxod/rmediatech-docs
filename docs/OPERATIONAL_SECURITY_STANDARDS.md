@@ -46,4 +46,24 @@ Operators maintain complete control over active cluster sessions:
 
 ---
 
+## 4. Edge Anti-Automation & Ephemeral Signaling Fortress
+
+Real-time interactive subsystems (e.g., ephemeral WebRTC Voice Labs and vector QR pairing endpoints) operate under strict anti-automation defenses designed to prevent denial-of-service room exhaustion and intellectual property harvesting:
+
+### 4.1 RFC 9309 Sovereign Robots Exclusion Standard (`/robots.txt`)
+- Storefront marketing and public documentation remain 100% crawlable by legitimate search engines (Google, Bing).
+- Ephemeral signaling gateways (`/ws/demo-signal`), pairing endpoints (`/api/demo/qr`), and operator control planes are strictly barred from crawler indexing.
+- Unlicensed commercial AI data scrapers (`GPTBot`, `ChatGPT-User`, `CCBot`, `Bytespider`, `ClaudeBot`, `anthropic-ai`, `Scrapy`) are globally disallowed across root origin and static asset trees.
+
+### 4.2 WAF Layer Microsecond Bot Interception
+Inbound WebSocket upgrades to `/ws/demo-signal` undergo sub-microsecond User-Agent heuristic analysis at the WAF middleware tier. Requests exhibiting signatures of headless browsers, search spiders, or automation tooling are immediately deflected with `403 Forbidden` in $< 1\text{ µs}$, preventing evaluation room capacity lockouts.
+
+### 4.3 Client-Side Automation Shield (`navigator.webdriver`)
+Ephemeral WebRTC client scripts actively inspect the W3C WebDriver environment specification. Headless Chromium runners and synthetic automation scripts are prevented from initiating peer connections or synthesizing media streams.
+
+### 4.4 Persistent Forensic Audit & Telemetry
+All edge actions emit non-blocking 5W1H telemetry records to a dedicated SQLite WAL persistence sink, indexing nanosecond execution durations, status codes, and client signatures for real-time threat intelligence without impacting ingress latency.
+
+---
+
 &copy; 2026 RMediaTech. All Rights Reserved. Sovereign Edge Platform.
