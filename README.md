@@ -106,6 +106,7 @@ The platform coordinates a unified family of purpose-built edge utilities:
 - **Sentry-Edge**: Perimeter monitoring, real-time threat detection, and telemetry alerting.
 - **Sovereign-Ledger**: Cryptographically verifiable local audit logging and event serialization.
 - **RMailer**: Standalone, tracker-free transactional mail dispatch and operational notifications.
+- **Ostium**: Autonomous gateway sentinel, Qualcomm hardware fingerprinter, and 802.11w WIDS wardriving defense platform.
 
 ---
 

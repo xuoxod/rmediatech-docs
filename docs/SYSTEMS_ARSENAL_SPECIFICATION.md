@@ -43,6 +43,10 @@ The RMediaTech platform provides a curated arsenal of high-assurance companion u
 - **Primary Function**: Autonomous Transactional Email Dispatcher
 - **Operational Scope**: Tracker-free, privacy-preserving transactional communications, password recovery delivery, and administrative alerts.
 
+### 2.8 Ostium (`rmt::tool::ostium`)
+- **Primary Function**: Autonomous Gateway Sentinel & Wardriving Defense (WIDS)
+- **Operational Scope**: Qualcomm QSDK hardware fingerprinter, 802.11w WIDS wardriving defense platform, and autonomous perimeter breach monitoring.
+
 ---
 
 ## 3. Distribution Standard
