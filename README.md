@@ -52,10 +52,10 @@ Modern software development has been colonized by digital feudalism. Independent
 flowchart LR
     subgraph OldEmpire ["🏰 The Old Empire (Digital Feudalism)"]
         direction TB
-        CloudDB["Cloud DB (AWS RDS / Supabase)\n💸 $150 - $1,200/mo Rent"]
-        CloudProxy["Edge WAF (Cloudflare / Fastly)\n🔒 Telemetry Lock-in & Tolls"]
-        CloudAuth["Auth SaaS (Auth0 / Clerk)\n🔑 Identity Hostage Pricing"]
-        CloudLog["Observability (Datadog / Splunk)\n📈 Exponential Ingestion Markup"]
+        CloudDB["Managed Cloud Databases\n💸 $150 - $1,200/mo Rent"]
+        CloudProxy["Proprietary Edge WAF\n🔒 Telemetry Lock-in & Tolls"]
+        CloudAuth["Third-Party Auth SaaS\n🔑 Identity Hostage Pricing"]
+        CloudLog["Proprietary Log Aggregators\n📈 Exponential Ingestion Markup"]
     end
 
     subgraph SovereignFleet ["⚡ The Frontier Developer Blueprint (RMediaTech)"]
@@ -106,7 +106,7 @@ The platform coordinates a unified family of purpose-built edge utilities:
 - **Sentry-Edge**: Perimeter monitoring, real-time threat detection, and telemetry alerting.
 - **Sovereign-Ledger**: Cryptographically verifiable local audit logging and event serialization.
 - **RMailer**: Standalone, tracker-free transactional mail dispatch and operational notifications.
-- **Ostium**: Autonomous gateway sentinel, Qualcomm hardware fingerprinter, and 802.11w WIDS wardriving defense platform.
+- **Ostium**: Autonomous gateway sentinel, gateway hardware fingerprinter, and 802.11w WIDS wardriving defense platform.
 
 ---
 
