@@ -45,7 +45,7 @@ The RMediaTech platform provides a curated arsenal of high-assurance companion u
 
 ### 2.8 Ostium (`rmt::tool::ostium`)
 - **Primary Function**: Autonomous Gateway Sentinel & Wardriving Defense (WIDS)
-- **Operational Scope**: Qualcomm QSDK hardware fingerprinter, 802.11w WIDS wardriving defense platform, and autonomous perimeter breach monitoring.
+- **Operational Scope**: Gateway chipset hardware fingerprinter, 802.11w WIDS wardriving defense platform, and autonomous perimeter breach monitoring.
 
 ---
 
