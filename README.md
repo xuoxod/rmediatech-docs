@@ -1,5 +1,12 @@
 # RMEDIATECH SOVEREIGN PLATFORM
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-Zero--Telemetry-brightgreen.svg" alt="Zero Telemetry" />
+  <img src="https://img.shields.io/badge/Platform-Sovereign%20Edge-blue.svg" alt="Platform" />
+  <img src="https://img.shields.io/badge/Status-Production%20Active-success.svg" alt="Status" />
+  <img src="https://img.shields.io/badge/License-Proprietary%20%2F%20Open%20Docs-blueviolet.svg" alt="License" />
+</p>
+
 > **Autonomous Edge Infrastructure, Distributed Systems Arsenal & Sovereign Communication Architecture**  
 > *Official Public Technical & Informational Documentation*
 
